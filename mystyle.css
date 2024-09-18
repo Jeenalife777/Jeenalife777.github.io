@@ -8,3 +8,17 @@ p {color: black;}
 margin-right:auto;
 }
 
+body {background-image:url(images/jeena-background.jpg);
+  background-size: 3000px;
+}
+
+#mySelf {
+    float: left;
+    padding: 3px;
+    margin-right: 10px;
+  }
+
+
+
+ 
+
